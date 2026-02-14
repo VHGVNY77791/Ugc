@@ -1,0 +1,1 @@
+print("UGC SCRIPT LOADED")
